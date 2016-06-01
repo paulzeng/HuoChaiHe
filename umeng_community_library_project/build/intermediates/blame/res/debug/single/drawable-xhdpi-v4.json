@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xialalan.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\xialalan.png"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_like_p.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_like_p.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xialalan.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\xialalan.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_gender_female.png",
@@ -18,6 +18,18 @@
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_favorite_p.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_favorite_p.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_search_icon.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_search_icon.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tiezipinglunc.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\tiezipinglunc.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_post_feed_arrow.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_post_feed_arrow.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_item_top.png",
@@ -48,6 +60,10 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_loc.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\duihuakuang2.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\duihuakuang2.9.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\duihuakuang1.9.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\duihuakuang1.9.png"
     },
@@ -58,6 +74,10 @@
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jiantou.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\jiantou.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_find_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_find_normal.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tiezipinglunh.png",
@@ -100,6 +120,10 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_switch_state_mask.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_find_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_find_pressed.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nan.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\nan.png"
     },
@@ -116,8 +140,16 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\jing.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_report.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_report.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\youbai.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\youbai.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_notify.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_notify.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xialakuang_right.9.png",
@@ -136,6 +168,14 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_tick.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sixin.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\sixin.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_at_friend.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_at_friend.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_msg_chat.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_msg_chat.png"
     },
@@ -144,12 +184,20 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\shantu.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_reply.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_reply.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_user_info_male.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_user_info_male.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_emoji.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_emoji.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_comment_like_n.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_comment_like_n.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xuan.png",
@@ -200,12 +248,12 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_ic_choice_green.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xiangce.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xiangce.png"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_back_white.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_back_white.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xiangce.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xiangce.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_notify.png",
@@ -216,16 +264,36 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_announce.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_slider_normal.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_switch_slider_normal.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_user_info_male.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_user_info_male.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_comment_pressed.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_comment_pressed.png"
     },
     {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_slider_normal.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_switch_slider_normal.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_ic_checkbox_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_ic_checkbox_normal.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_item_comment.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_item_comment.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_comment_comment_p.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_comment_comment_p.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_my_msg_arrow.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_my_msg_arrow.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tongzhi.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\tongzhi.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_new_post.png",
@@ -244,20 +312,24 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\xiangji.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_line_for_tv.9.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\blue_line_for_tv.9.png"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yishoucang.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\yishoucang.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jiantou.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\jiantou.png"
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_line_for_tv.9.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\blue_line_for_tv.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_favorites_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_favorites_pressed.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_topic.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_topic.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jiantou.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\jiantou.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_loc_pressed.png",
@@ -268,12 +340,20 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\guanzhuhuati.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_forward_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_forward_pressed.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_share_normal.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_share_normal.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_chat_btn.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_chat_btn.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pinglunpc.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\pinglunpc.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhongbai.png",
@@ -292,12 +372,32 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_bg_album_border.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_send_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_send_pressed.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_reply_comment.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_reply_comment.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_find_setting.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_find_setting.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_share_normal.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_share_normal.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_arrow.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_arrow.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pinglun.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\pinglun.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_bg_album_border.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_bg_album_border.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dibiao.png",
@@ -332,6 +432,10 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_switch_slider_normal.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_male.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_male.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\morentuf.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\morentuf.png"
     },
@@ -340,8 +444,40 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_like_more_user_normal.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jia.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\jia.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_xiaolian_press.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_xiaolian_press.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lanxian.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\lanxian.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_nearby_recommend.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_nearby_recommend.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_msg_notice.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_msg_notice.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_top.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_top.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_camera.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_camera.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_comment_p.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_comment_p.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nan.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\nan.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_emojipoint_pressed.png",
@@ -372,6 +508,10 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\huati.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_topic_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_topic_pressed.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pinglunzanc.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\pinglunzanc.png"
     },
@@ -392,12 +532,28 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_new_post_pressed.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_emojipoint_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_emojipoint_normal.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\guanzhuhuati.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\guanzhuhuati.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yiguanzhu.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\yiguanzhu.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_line_for_tv.9.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\blue_line_for_tv.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\duihuakuang1.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\duihuakuang1.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_album.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_album.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huatizu.png",
@@ -424,8 +580,16 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_send.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_xiaolian.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_xiaolian.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\duihuakuang2.9.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\duihuakuang2.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_comment_comment_p.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_comment_comment_p.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_copy.png",
@@ -434,6 +598,18 @@
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_recommend_friends.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_recommend_friends.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_msg_like.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_msg_like.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tiezizanh.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\tiezizanh.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shoucang.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\shoucang.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_nearby_recommend.png",
@@ -472,6 +648,10 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_like_more_user_pressed.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_emojipoint_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_emojipoint_pressed.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_add_image.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_add_image.png"
     },
@@ -492,12 +672,24 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\jia.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_user_center.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_user_center.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shezhidianji.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\shezhidianji.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_post_feed_arrow.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_post_feed_arrow.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_msg_comment.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_msg_comment.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_more.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_more.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pinglunph.png",
@@ -508,8 +700,16 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_tick.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_new_post_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_new_post_pressed.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fanhui.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\fanhui.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dibiao.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\dibiao.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wodetuce.png",
@@ -524,12 +724,28 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\kuangh.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_comment_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_comment_pressed.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_pop_arrow.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_pop_arrow.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kuangc.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\kuangc.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tongzhi.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\tongzhi.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kuangc.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\kuangc.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_like_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_like_normal.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sixin.png",
@@ -544,16 +760,24 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\pinglunpc.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_like_bg.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_like_bg.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_state_mask.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_switch_state_mask.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_share_pressed.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_share_pressed.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhaopian.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\zhaopian.png"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_uncheck.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_uncheck.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhaopian.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\zhaopian.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_frame.png",
@@ -564,12 +788,32 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\jiaguanzhu.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_topic_recommend.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_topic_recommend.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xuanzhong.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xuanzhong.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_comment_comment_n.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_comment_comment_n.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xietiezi.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\xietiezi.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_tick.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_tick.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_camera_pressed.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_camera_pressed.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_gender_female.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_gender_female.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_like_n.png",
@@ -584,6 +828,14 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\sixin2.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_title_back.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_title_back.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhonglan.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\zhonglan.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xie.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xie.png"
     },
@@ -596,12 +848,32 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_add_image.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\feedbuttonbg.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\feedbuttonbg.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tiezizanc.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\tiezizanc.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xianghu.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xianghu.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_send.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_send.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_setting.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_setting.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhuangfa.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\zhuangfa.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_back.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_back.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhaopian.png",
@@ -614,6 +886,10 @@
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_ic_checkbox_normal.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_ic_checkbox_normal.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_msg_chat.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_msg_chat.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\haoyouquan.png",
@@ -652,16 +928,28 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_topic_recommend.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_top_announce.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_top_announce.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gengduo.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\gengduo.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jiantou.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\jiantou.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_realtime_icon.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_realtime_icon.png"
     },
     {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_top_announce.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_top_announce.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_slider_disable.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_switch_slider_disable.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_favorites_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_favorites_normal.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_item_location.png",
@@ -692,20 +980,28 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_item_comment.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_emojipoint_normal.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_emojipoint_normal.png"
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_album.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_album.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_favorites_normal.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_favorites_normal.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_album.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_album.png"
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_emojipoint_normal.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_emojipoint_normal.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xiangji.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xiangji.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_uncheck.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_uncheck.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_like_white.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_like_white.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_emoji.png",
@@ -796,8 +1092,24 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_favorites_pressed.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zan.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\zan.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_back_pressed.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_back_pressed.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_pop_bg.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_pop_bg.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zuobai.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\zuobai.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xiaolian.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xiaolian.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_user_topic.png",
@@ -810,6 +1122,14 @@
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xialalan.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xialalan.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_community_location.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_community_location.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_nearby_recommend.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_nearby_recommend.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_announce.png",
@@ -836,6 +1156,10 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\haoyouquan.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_copy.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_copy.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jiaw.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\jiaw.png"
     },
@@ -848,12 +1172,28 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\fanhui.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_state_disable.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_switch_state_disable.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_forward_bg.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_forward_bg.9.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhongbai.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\zhongbai.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pinglun.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\pinglun.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nv.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\nv.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_forward_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_forward_normal.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_pop_arrow.png",
@@ -876,12 +1216,28 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_top.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_image_delete.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_image_delete.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quxiaoguanzhu.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\quxiaoguanzhu.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_search_icon.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_search_icon.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yishoucang.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\yishoucang.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xiangce.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xiangce.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jiaw.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\jiaw.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_msg_notice.png",
@@ -892,12 +1248,28 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_favorite_n.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_like_more_user_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_like_more_user_pressed.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_female.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_female.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_chat_btn.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_chat_btn.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_setting.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_setting.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\faxian.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\faxian.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xialakuang_right.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xialakuang_right.9.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_delete.png",
@@ -916,6 +1288,10 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\pinglunph.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_setting_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_setting_pressed.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_comment_normal.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_comment_normal.png"
     },
@@ -928,6 +1304,10 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_cancel_pressed.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_user_add_follow_btn.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_user_add_follow_btn.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_photo.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_photo.png"
     },
@@ -936,12 +1316,36 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_arrow.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_item_top.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_item_top.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xianghu.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xianghu.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_item_like.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_item_like.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_msg_arrow.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_msg_arrow.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\haoyouquan.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\haoyouquan.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhongbai.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\zhongbai.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pinglunph.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\pinglunph.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_discuss_announce.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_discuss_announce.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xialahui.png",
@@ -964,6 +1368,10 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_share_pressed.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_back_white.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_back_white.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_ic_spinner_white.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_ic_spinner_white.png"
     },
@@ -978,6 +1386,14 @@
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_like_n.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_like_n.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shezhi.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\shezhi.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_cancel_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_cancel_pressed.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_send.png",
@@ -1004,12 +1420,24 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_favorites_normal.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_add_image.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_add_image.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_comment_n.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_comment_n.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_tab_bg.9.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_tab_bg.9.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_back.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_back.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_delete.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_delete.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_topic_pressed.png",
@@ -1020,6 +1448,10 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_ic_loading_white.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_ic_spinner_white.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_ic_spinner_white.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_topic_pressed.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_topic_pressed.png"
     },
@@ -1028,12 +1460,20 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\huatizu.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jifen.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\jifen.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_add_topic_bg.9.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_add_topic_bg.9.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xialakuang.9.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\xialakuang.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_remove.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_remove.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\weishoucang.png",
@@ -1060,12 +1500,20 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\zhonglan.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\youbai.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\youbai.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_recommend_friends.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_recommend_friends.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_discuss_announce.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_discuss_announce.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_search.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_search.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
@@ -1084,6 +1532,10 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_find_pressed.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_comment_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_comment_normal.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_favorite_p.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_favorite_p.png"
     },
@@ -1092,8 +1544,16 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_comment_p.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_ic_loading_white.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_ic_loading_white.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_reply.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_reply.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_back_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_back_pressed.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zuobai.png",
@@ -1102,6 +1562,10 @@
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_discuss_announce.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_discuss_announce.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xialakuang.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xialakuang.9.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_like_more_user_normal.png",
@@ -1120,8 +1584,24 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_like_white.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pinglunzanc.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\pinglunzanc.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_user_recommend.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_user_recommend.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_like_icon.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_like_icon.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wodetuce.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\wodetuce.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_topic.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_topic.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_search.png",
@@ -1132,6 +1612,10 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_comment_p.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_comment_like_p.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_comment_like_p.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_new_post_pressed.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_new_post_pressed.png"
     },
@@ -1140,24 +1624,84 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_find_normal.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_like_p.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_like_p.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_user_center.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_user_center.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_female.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_female.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_bg_dark_translucent.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_bg_dark_translucent.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fanhui.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\fanhui.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_camera_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_camera_pressed.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_notification.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_notification.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_photo_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_photo_pressed.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_topic_icon.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_topic_icon.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pinglunzanh.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\pinglunzanh.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dameiza.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\dameiza.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_announce.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_announce.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\faxian.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\faxian.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\v.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\v.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xietiezi.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xietiezi.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_item_essential.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_item_essential.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xie.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xie.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_emojipoint_pressed.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_emojipoint_pressed.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zuolan.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\zuolan.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_notification.png",
@@ -1166,6 +1710,18 @@
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_forward_normal.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_forward_normal.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_emoji.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_emoji.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shezhidianji.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\shezhidianji.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_like_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_like_pressed.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_user_center.png",
@@ -1184,12 +1740,28 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_find_normal.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quxiaoguanzhu.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\quxiaoguanzhu.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xuan.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xuan.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kuangh.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\kuangh.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zuobai.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\zuobai.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_msg_like.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_msg_like.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_emoji_keyboard.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_emoji_keyboard.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lanxian.png",
@@ -1216,8 +1788,24 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_photo_pressed.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_realtime_icon.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_realtime_icon.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huati.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\huati.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_favorite_p.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_favorite_p.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_user_topic.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_user_topic.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_photo.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_photo.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_item_essential.png",
@@ -1252,6 +1840,10 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_reply.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_gender_male.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_gender_male.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ding.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\ding.png"
     },
@@ -1268,8 +1860,24 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_camera.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_loc.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_loc.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_like_icon.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_like_icon.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_uncheck.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_uncheck.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_line_for_tv.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\blue_line_for_tv.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhuangfa.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\zhuangfa.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_at_friend.png",
@@ -1288,12 +1896,24 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_album.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_frame.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_switch_frame.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_more.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_more.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_emojipoint_normal.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_emojipoint_normal.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_msg_arrow.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_msg_arrow.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_top_announce.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_top_announce.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sixin.png",
@@ -1312,8 +1932,16 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_xiaolian.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_at_friend_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_at_friend_pressed.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_bg_album_border.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_bg_album_border.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_slider_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_switch_slider_normal.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_top.png",
@@ -1324,12 +1952,20 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_setting_pressed.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jiaguanzhu.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\jiaguanzhu.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_forward_pressed.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_forward_pressed.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_favorites_pressed.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_favorites_pressed.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huatizu.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\huatizu.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_search.png",
@@ -1342,6 +1978,10 @@
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\duihuakuang1.9.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\duihuakuang1.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_bg_dark_translucent.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_bg_dark_translucent.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_ic_loading_white.png",
@@ -1368,32 +2008,84 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\tiezipinglunh.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_recommend_friends.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_recommend_friends.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\youbai.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\youbai.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\weishoucang.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\weishoucang.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_favorite_n.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_favorite_n.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_new_post.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_new_post.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\youlan.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\youlan.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_at_friend_pressed.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_at_friend_pressed.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xialahui.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xialahui.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_more.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_more.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gengduo.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\gengduo.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_item_location.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_item_location.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_msg_like.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_msg_like.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\guanzhuhuati.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\guanzhuhuati.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_state_disable.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_switch_state_disable.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_like_more_user_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_like_more_user_normal.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nv.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\nv.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_forward_pressed.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_forward_pressed.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_cancel.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_cancel.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_image_delete.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_image_delete.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dameiza.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\dameiza.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_ic_checkbox_normal.png",
@@ -1408,8 +2100,20 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_switch_state_disable.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_share_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_share_pressed.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nv.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\nv.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_like_n.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_like_n.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_loc_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_loc_pressed.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tiezipinglunc.png",
@@ -1420,6 +2124,10 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_image_delete.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_state_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_switch_state_normal.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kuangh.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\kuangh.png"
     },
@@ -1428,8 +2136,24 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\lanxian.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huati.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\huati.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_not_found.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_not_found.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_not_found.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_not_found.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\morentuf.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\morentuf.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_slider_disable.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_switch_slider_disable.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_user_info_male.png",
@@ -1456,12 +2180,24 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_realtime_icon.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ding.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\ding.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_like_icon.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_like_icon.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_comment_comment_n.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_comment_comment_n.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_forward_bg.9.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_forward_bg.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_ic_choice_green.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_ic_choice_green.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_reply_comment.png",
@@ -1478,6 +2214,10 @@
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_camera_pressed.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_camera_pressed.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_notification.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_notification.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_switch_state_mask.png",
@@ -1504,6 +2244,10 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_xiaolian.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xialalan.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xialalan.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xiaolian.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xiaolian.png"
     },
@@ -1512,8 +2256,16 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_xiaolian_press.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shantu.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\shantu.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shoucang.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\shoucang.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_tab_bg.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_feed_detail_tab_bg.9.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xuan.png",
@@ -1524,8 +2276,16 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\tiezipinglunc.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sixin2.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\sixin2.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_title_back.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_title_back.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_share_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_share_normal.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_user_recommend.png",
@@ -1548,8 +2308,28 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_msg_comment.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhaopian.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\zhaopian.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\feedbuttonbg.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable-xhdpi\\feedbuttonbg.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_user_info_female.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_user_info_female.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jing.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\jing.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xuanzhongtupian.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\xuanzhongtupian.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tiezipinglunh.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\tiezipinglunh.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_feed_detail_pop_bg.9.png",
@@ -1566,5 +2346,9 @@
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_like_pressed.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_like_pressed.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_comm_add_topic_bg.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable-xhdpi\\umeng_comm_add_topic_bg.9.png"
     }
 ]

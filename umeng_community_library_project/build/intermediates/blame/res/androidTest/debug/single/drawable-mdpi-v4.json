@@ -4,6 +4,10 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
     }

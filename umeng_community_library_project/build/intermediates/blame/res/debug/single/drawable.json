@@ -1,11 +1,15 @@
 [
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_facebook.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_blueline.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_blueline.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_reply_comment_bg.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_reply_comment_bg.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_setting_logout_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_setting_logout_bg.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_x_button.png",
@@ -24,48 +28,32 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_community_topic_bg_wb.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_camera_bt.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_camera_bt.xml"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_image_save_bg.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_image_save_bg.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_focus_user_bg.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_focus_user_bg.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_hot_button_selector.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_hot_button_selector.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_blue_selector.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_blue_selector.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_off.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_renren_off.png"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_like_selector.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_like_selector.xml"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_image.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_fetch_image.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_active_user_togglebutton_bg.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_active_user_togglebutton_bg.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_more_radius_none.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_more_radius_none.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_topic_togglebutton.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_topic_togglebutton.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_on.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_tx_on.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_at_friend_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_at_friend_bt.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_off.png",
@@ -80,14 +68,6 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_emoj.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_login.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_on.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sina_on.png"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
     },
@@ -96,12 +76,12 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_bind_bg.9.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_forward_bt.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_forward_bt.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_segment_shape.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_segment_shape.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_blue_button_bg.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_blue_button_bg.xml"
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_forward_bt.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_forward_bt.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_more_radius_top.xml",
@@ -112,20 +92,12 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_qq_off.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_send_button.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_send_button.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_sina_bt.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_sina_bt.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_login.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_back_bt.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_on.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_tx_on.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_comment_selector.xml",
@@ -152,24 +124,16 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_imagepicker_back_bt.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_on.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_qzone_on.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_share.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_share.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_tv_blue_selector.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_tv_blue_selector.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_off.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_douban_off.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_logout_bg.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_logout_bg.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_round_image.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_round_image.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_button_hot_btn_text_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_button_hot_btn_text_selector.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_on.png",
@@ -184,24 +148,20 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_btn_checkbox_selector.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_image_pick.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_image_pick.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_send_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_send_pressed.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_on.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_follow_on.png"
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_image_pick.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_image_pick.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat_gray.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wechat_gray.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_hot_button_selector.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_hot_button_selector.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_back_bt.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_back_bt.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_btn_black_textcolor_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_btn_black_textcolor_selector.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_comment_selector.xml",
@@ -216,20 +176,16 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_radio_shape.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_like_selector.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_like_selector.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_topic_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_topic_bt.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_radius_bg.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_radius_bg.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_tv_blue_selector.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_tv_blue_selector.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_wechat_pressed.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_wechat_pressed.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_find_bt.xml",
@@ -244,28 +200,20 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_send_button.xml"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_smallbutton.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_smallbutton.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_red.9.png"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_like_more_user.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_like_more_user.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_segment_shape.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_segment_shape.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_on.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_douban_on.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_switch_rightbutton_bg.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_switch_rightbutton_bg.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_checkbox_style.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_checkbox_style.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_yellow_selector.xml",
@@ -284,32 +232,12 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_item_like_selector.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_oauth_check.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_action_back.xml"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_off.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_location_off.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wxcircle.png"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_community_topic_bg.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_community_topic_bg.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_at_friend_bt.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_at_friend_bt.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_settingbutton_bg.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_settingbutton_bg.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_rounded_corner_backgroud.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_rounded_corner_backgroud.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_more_radius_top.xml",
@@ -320,20 +248,24 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_qzone_off.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_more_radius_none.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_more_radius_none.xml"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_blue.9.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_action_back.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_selected.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_action_back_selected.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_current_pos_bg.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_current_pos_bg.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_btn_green_selector_rectangle.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_btn_green_selector_rectangle.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_qq_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_qq_pressed.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_sina_pressed.png",
@@ -348,20 +280,20 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_more_radius_bottom.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_settingbutton_bg.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_settingbutton_bg.xml"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_selected.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_at_selected.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_button_hot_btn_text_selector.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_button_hot_btn_text_selector.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_facebook.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_search_icon.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_location_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_location_bt.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_selector_switch_state.xml",
@@ -380,36 +312,32 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sina_off.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_wechat_normal.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_wechat_normal.png"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_blue_p.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_blue_p.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_gray_bg.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_gray_bg.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_twitter.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_twitter.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_button_text_color.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_button_text_color.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white.9.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_white.9.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_like_selector.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_like_selector.xml"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_off.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sina_off.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_setting_bt.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_setting_bt.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_button.xml",
@@ -428,10 +356,6 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_gray_bg.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_smallbutton.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_smallbutton.xml"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_radius_bg.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_radius_bg.xml"
     },
@@ -440,24 +364,12 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_login.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white_blue.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_white_blue.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_button_text_color.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_button_text_color.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_share.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_share.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_more_radius_top.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_more_radius_top.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_pressed.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_retangle.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_retangle.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_wechat_pressed.png",
@@ -468,8 +380,12 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_chat_send_n.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_btn_green_selector_rectangle.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_btn_green_selector_rectangle.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_oauth_check.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
@@ -484,20 +400,1036 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_login_pressed.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_check.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_follow_check.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_qq_normal.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_qq_normal.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey.9.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_grey.9.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_gray_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_gray_bg.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_selector_switch_state.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_selector_switch_state.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_like_more_user.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_like_more_user.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_wechat_normal.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_wechat_normal.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_topic_togglebutton.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_topic_togglebutton.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_chat_send_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_chat_send_selector.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_normal.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_circle_shape.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_circle_shape.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_radius_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_radius_bg.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_blue_p.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_blue_p.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_switch_rightbutton_bg.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_switch_rightbutton_bg.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_favorite_selector.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_favorite_selector.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_commm_active_user_togglebutton_bg.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_commm_active_user_togglebutton_bg.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_send_btn_style.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_send_btn_style.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\shuxianbeijing.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\shuxianbeijing.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_default_avatar.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_imagepicker_back_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_imagepicker_back_bt.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_frame_style.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_frame_style.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_light_bar_bg.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_settingbutton_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_settingbutton_bg.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_retangle.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_retangle.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_normal.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_on.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_wechat_bt.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_wechat_bt.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_qq_normal.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_qq_normal.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat_gray.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_emoji_btn_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_emoji_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_location_bt.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_location_bt.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_emoj.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_emoj.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_on.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_blue.9.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_on.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_segment_shape_middle.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_segment_shape_middle.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_commm_feeddetail_like_selector.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_commm_feeddetail_like_selector.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_tv_yellow_selector.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_tv_yellow_selector.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_on.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_normal.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_blue_p.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_blue_p.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_current_pos_bg.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_current_pos_bg.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_radio_shape.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_radio_shape.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_current_pos_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_current_pos_bg.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_button_text_color.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_button_text_color.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_btn_checkbox_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_btn_checkbox_selector.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_tv_style.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_tv_style.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_at_friend_bt.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_at_friend_bt.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_item_like_selector.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_item_like_selector.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_active_user_togglebutton_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_active_user_togglebutton_bg.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_wechat_bt.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_wechat_bt.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_location_bt.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_location_bt.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_commm_active_user_togglebutton_bg.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_commm_active_user_togglebutton_bg.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_setting_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_setting_bt.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_commm_active_user_togglebutton_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_commm_active_user_togglebutton_bg.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_input_cursor.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_input_cursor.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_chat_send_p.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_chat_send_p.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_on.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_camera_bt.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_camera_bt.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_chat_send_selector.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_chat_send_selector.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_ic.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_hot_btn_shape_round.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_hot_btn_shape_round.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_emoj.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_emoj.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_circle_shape.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_circle_shape.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_back_bt.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_back_bt.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_camera_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_camera_bt.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_off.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_tv_yellow_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_tv_yellow_selector.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_community_topic_bg.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_community_topic_bg.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_yellow_n.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_yellow_n.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_switch_leftbutton_bg.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_switch_leftbutton_bg.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_off.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_blue_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_blue_selector.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_image.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_search_frame_style.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_search_frame_style.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_selected.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_round_image.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_round_image.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_blue.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_cancel_bt.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_cancel_bt.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_topic_bt.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_topic_bt.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_off.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_yellow_p.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_yellow_p.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_off.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_frame_style.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_frame_style.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_logout_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_logout_bg.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_frame_style.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_frame_style.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_like_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_like_bt.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_light_bar_bg.9.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_chat_send_selector.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_chat_send_selector.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_tv_style.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_tv_style.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_photo_pick_bt.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_photo_pick_bt.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_send_button.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_send_button.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_off.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_search_frame_style.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_search_frame_style.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_circle_shape.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_circle_shape.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_community_topic_bg_wb.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_community_topic_bg_wb.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_photo_pick_bt.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_photo_pick_bt.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_selected.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_on.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_topic_bt.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_topic_bt.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_yellow_p.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_yellow_p.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_rounded_corner_backgroud.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_rounded_corner_backgroud.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_selected.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\shuxianbeijing.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\shuxianbeijing.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_favourite_button.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_favourite_button.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_comment_selector.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_comment_selector.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_like_more_user.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_like_more_user.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_msg_tv_selector.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_msg_tv_selector.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_switch_leftbutton_bg.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_switch_leftbutton_bg.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_off.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_off.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_round_image.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_round_image.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_blue_selector.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_blue_selector.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_edit_background.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_edit_background.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_off.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_search_button_style.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_search_button_style.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_sina.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_sina.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_send.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_send.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_input_cursor.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_input_cursor.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_like_bt.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_like_bt.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_like_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_like_selector.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_like_bt.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_like_bt.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_back.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_back.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_cancel_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_cancel_bt.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_normal.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_ic.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_nav_bar_bg.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_chat_send_p.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_chat_send_p.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_reply_comment_bg.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_reply_comment_bg.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_search_frame_style.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_search_frame_style.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_share.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_share.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_hot_button_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_hot_button_selector.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_camera_bt.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_camera_bt.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_focus_user_bg.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_focus_user_bg.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_blue_selector.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_blue_selector.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_send.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_send.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_off.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_like_selector.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_like_selector.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_active_user_togglebutton_bg.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_active_user_togglebutton_bg.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_wechat_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_wechat_normal.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_off.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_segment_shape_middle.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_segment_shape_middle.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_topic_togglebutton.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_topic_togglebutton.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_back.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_back.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_on.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_blue_button_bg.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_blue_button_bg.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_send_button.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_send_button.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_reply_comment_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_reply_comment_bg.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_sina_bt.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_sina_bt.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_on.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_sina_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_sina_pressed.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_photo_pick_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_photo_pick_bt.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_switch_rightbutton_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_switch_rightbutton_bg.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\shuxianbeijing.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\shuxianbeijing.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_search_icon.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_smallbutton.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_smallbutton.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_share.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_share.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_yellow_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_yellow_selector.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_tv_blue_selector.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_tv_blue_selector.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_send_btn_style.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_send_btn_style.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_round_image.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_round_image.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_new_post_btn_style.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_new_post_btn_style.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_checkbox_style.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_checkbox_style.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_on.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_hot_button_selector.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_hot_button_selector.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_back_bt.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_back_bt.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_selector_switch_state.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_selector_switch_state.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_chat_send_n.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_chat_send_n.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_like_selector.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_like_selector.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_retangle.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_retangle.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_tv_blue_selector.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_tv_blue_selector.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_wechat_pressed.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_wechat_pressed.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat_gray.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_back_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_back_pressed.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_like_more_user.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_like_more_user.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_segment_shape.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_segment_shape.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_checkbox_style.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_checkbox_style.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_community_topic_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_community_topic_bg.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_community_topic_bg.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_community_topic_bg.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_at_friend_bt.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_at_friend_bt.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_settingbutton_bg.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_settingbutton_bg.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_more_radius_none.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_more_radius_none.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_current_pos_bg.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_current_pos_bg.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_settingbutton_bg.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_settingbutton_bg.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_image.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_button_hot_btn_text_selector.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_button_hot_btn_text_selector.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_image_save_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_image_save_bg.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_wechat_normal.png",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_wechat_normal.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_msg_tv_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_msg_tv_selector.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_twitter.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_like_selector.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_like_selector.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_setting_bt.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_setting_bt.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_smallbutton.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_smallbutton.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_button_text_color.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_button_text_color.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_share.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_share.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_retangle.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_retangle.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_twitter.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_back_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_back_bt.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_blue_n.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_blue_n.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_on.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_btn_green_selector_rectangle.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_btn_green_selector_rectangle.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_image_pick.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_image_pick.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey.9.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_grey.9.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
@@ -512,36 +1444,20 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_qq_pressed.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_selected.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_wechat_normal.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_wechat_normal.png"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_topic_togglebutton.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_topic_togglebutton.xml"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_oauth_check.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_input_send_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_input_send_selector.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_normal.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_login_normal.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_xiaolian.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_xiaolian.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_blue_p.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_blue_p.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_switch_rightbutton_bg.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_switch_rightbutton_bg.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_blue_button_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_blue_button_bg.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_normal.png",
@@ -560,14 +1476,6 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_favorite_selector.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_favorite_selector.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_right_bt.xml"
     },
@@ -576,32 +1484,48 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_action_back.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_commm_active_user_togglebutton_bg.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_commm_active_user_togglebutton_bg.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_comment_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_comment_selector.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_send_btn_style.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_send_btn_style.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_yellow_n.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_yellow_n.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_qq_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_qq_normal.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_sina.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_sina.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_btn_black_textcolor_selector.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_btn_black_textcolor_selector.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\shuxianbeijing.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\shuxianbeijing.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_favorite_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_favorite_selector.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_radio_shape.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_radio_shape.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_frame_style.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_frame_style.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_hot_btn_shape_round.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_hot_btn_shape_round.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_wechat_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_wechat_bt.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_off.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_imagepicker_back_bt.xml",
@@ -644,40 +1568,40 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_retangle.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_retangle.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_normal.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_action_back_normal.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_normal.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_login_normal.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_pressed.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_login_pressed.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_on.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_location_on.png"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_wechat_bt.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_wechat_bt.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_qq_normal.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_qq_normal.png"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat_gray.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wechat_gray.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_commm_feeddetail_like_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_commm_feeddetail_like_selector.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_google.png"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_switch_centerbutton_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_switch_centerbutton_bg.xml"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_image_pick.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_image_pick.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_bind_bg.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_bind_bg.9.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_tv_style.xml",
@@ -688,28 +1612,12 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_douban_on.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_location_bt.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_location_bt.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_blue.9.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_blue.9.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_on.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_renren_on.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_input_send_selector.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_input_send_selector.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_segment_shape_middle.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_segment_shape_middle.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_selector_switch_slider.xml",
@@ -720,10 +1628,6 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_image_save_bg.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_commm_feeddetail_like_selector.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_commm_feeddetail_like_selector.xml"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_edit_background.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_edit_background.xml"
     },
@@ -732,36 +1636,12 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_x_button.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_tv_yellow_selector.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_tv_yellow_selector.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_on.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_douban_on.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_normal.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_blue_p.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_blue_p.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_current_pos_bg.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_current_pos_bg.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_radio_shape.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_radio_shape.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_grey.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_active_user_togglebutton_bg.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_active_user_togglebutton_bg.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_selected.png",
@@ -770,6 +1650,14 @@
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_sina_bt.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_sina_bt.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_on.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_on.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sina_on.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_on.png",
@@ -784,32 +1672,36 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_qq_bt.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_button_text_color.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_button_text_color.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white.9.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_item_like_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_item_like_selector.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_sina_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_sina_bt.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_switch_centerbutton_bg.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_switch_centerbutton_bg.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_send_btn_style.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_send_btn_style.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_button.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_at_button.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_tv_style.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_tv_style.xml"
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_send_btn_style.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_send_btn_style.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white.9.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_white.9.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_at_friend_bt.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_at_friend_bt.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_item_like_selector.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_item_like_selector.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_comment_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_comment_selector.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
@@ -820,24 +1712,8 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_setting_bt.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_google.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_wechat_bt.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_wechat_bt.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_location_bt.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_location_bt.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_commm_active_user_togglebutton_bg.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_commm_active_user_togglebutton_bg.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_to_button.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_share_to_button.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_off.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sina_off.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
@@ -852,10 +1728,6 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_input_cursor.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_input_cursor.xml"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_sina_pressed.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_sina_pressed.png"
     },
@@ -864,76 +1736,48 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_chat_send_p.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_chat_send_p.xml"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_search_button_style.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_search_button_style.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_on.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_qzone_on.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_find_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_find_bt.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_on.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_tx_on.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_search_button_style.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_search_button_style.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_camera_bt.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_camera_bt.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_qq_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_qq_bt.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_chat_send_selector.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_chat_send_selector.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_ic.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_location_ic.png"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_hot_btn_shape_round.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_hot_btn_shape_round.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_emoj.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_emoj.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_google.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_rounded_corner_backgroud.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_rounded_corner_backgroud.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_circle_shape.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_circle_shape.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_back_bt.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_back_bt.xml"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_find_bt.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_find_bt.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_switch_leftbutton_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_switch_leftbutton_bg.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_back_pressed.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_back_pressed.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_off.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_qq_off.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_red_blue.xml"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wxcircle.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_community_topic_bg.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_community_topic_bg.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_tv_blue_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_tv_blue_selector.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_logout_bg.xml",
@@ -944,10 +1788,6 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_oauth_check_on.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_normal.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_normal.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_at_normal.png"
     },
@@ -956,24 +1796,12 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_blue_n.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_yellow_n.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_yellow_n.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_switch_leftbutton_bg.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_switch_leftbutton_bg.xml"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_more_radius_bottom.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_more_radius_bottom.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_button.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_at_button.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_off.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_follow_off.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_on.png",
@@ -988,52 +1816,40 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_right_bt.xml"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_refersh.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_on.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_oauth_check_on.png"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_blueline.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_blueline.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_image.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_fetch_image.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_btn_checkbox_selector.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_btn_checkbox_selector.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_round_image.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_round_image.xml"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_segment_shape.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_segment_shape.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_like_selector.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_like_selector.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_pressed.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_cancel_bt.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_cancel_bt.xml"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_topic_bt.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_topic_bt.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_pressed.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_msg_tv_selector.xml",
@@ -1044,10 +1860,6 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_btn_green_selector_rectangle.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_off.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_tx_off.png"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_favourite_button.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_favourite_button.xml"
     },
@@ -1056,16 +1868,16 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_yellow_p.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_pressed.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_blue_n.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_blue_n.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_frame_style.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_frame_style.xml"
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_focus_user_bg.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_focus_user_bg.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_back.png",
@@ -1076,32 +1888,16 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_send.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_light_bar_bg.9.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_chat_send_selector.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_chat_send_selector.xml"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_back_pressed.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_back_pressed.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_community_topic_bg_wb.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_community_topic_bg_wb.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_photo_pick_bt.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_photo_pick_bt.xml"
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_new_post_btn_style.xml",
@@ -1112,28 +1908,20 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_switch_centerbutton_bg.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_search_frame_style.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_search_frame_style.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_more_radius_bottom.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_more_radius_bottom.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_qq_bt.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_qq_bt.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_circle_shape.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_circle_shape.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wxcircle.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_community_topic_bg_wb.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_community_topic_bg_wb.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
@@ -1156,20 +1944,8 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_login_normal.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_photo_pick_bt.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_photo_pick_bt.xml"
-    },
-    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_on.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_renren_on.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_on.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_qq_on.png"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_topic_bt.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_topic_bt.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_grey.xml",
@@ -1180,20 +1956,16 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_renren_off.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_yellow_p.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_yellow_p.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_rounded_corner_backgroud.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_rounded_corner_backgroud.xml"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_default_avatar.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_default_avatar.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_send_pressed.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_send_pressed.png"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_wechat_pressed.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_wechat_pressed.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_yellow_n.xml",
@@ -1204,28 +1976,8 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_btn_black_textcolor_selector.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_selected.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_action_back_selected.png"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\shuxianbeijing.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\shuxianbeijing.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wechat.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_comment_selector.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_comment_selector.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_like_more_user.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_like_more_user.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_comment_msg_tv_selector.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_comment_msg_tv_selector.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_topic_togglebutton.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_topic_togglebutton.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_commm_feeddetail_like_selector.xml",
@@ -1248,28 +2000,24 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_new_post_btn_style.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_switch_leftbutton_bg.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_switch_leftbutton_bg.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_off.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_follow_off.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_off.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_qzone_off.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_off.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_tx_off.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_ic.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_location_ic.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_off.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_follow_off.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_selector_switch_slider.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_selector_switch_slider.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_segment_shape_middle.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_segment_shape_middle.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_blue_selector.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_blue_selector.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
@@ -1292,16 +2040,8 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_xiaolian.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_edit_background.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_edit_background.xml"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_normal.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_red.9.png"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_button_hot_btn_text_selector.xml",
@@ -1316,52 +2056,32 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_favourite_button.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_search_button_style.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_search_button_style.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_sina.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_sina.png"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_send.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_send.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_send_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_send_bt.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_nav_bar_bg.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_like_bt.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_like_bt.xml"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_xiaolian.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_xiaolian.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_bind_bg.9.png",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_bind_bg.9.png"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_like_bt.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_like_bt.xml"
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_back.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_back.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_edit_background.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_edit_background.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
@@ -1372,24 +2092,24 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_checkbox_style.xml"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_forward_bt.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_forward_bt.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_x_button.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_x_button.png"
+    },
+    {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_send_pressed.png",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_send_pressed.png"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_normal.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_at_normal.png"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_ic.png",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_location_ic.png"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_on.png",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_qq_on.png"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_focus_user_bg.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_focus_user_bg.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_reply_comment_bg.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_reply_comment_bg.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
@@ -1400,19 +2120,7 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_hot_btn_shape_round.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_socialize_wechat.png"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_feed_detail_tv_yellow_selector.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_comm_feed_detail_tv_yellow_selector.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_comm_search_frame_style.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\drawable\\umeng_comm_search_frame_style.xml"
     }
 ]

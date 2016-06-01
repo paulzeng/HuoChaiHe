@@ -1,31 +1,27 @@
 [
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_shareboard_item_anim.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_shareboard_item_anim.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_dialog_out.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_dialog_out.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_down_img.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_down_img.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_out.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_down.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_down.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_up_current.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_up_current.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_up_img.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_up_img.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_image_browser_out.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_image_browser_out.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_down_img.xml",
@@ -40,40 +36,12 @@
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_up_img.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_activity_alpha_action_in.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_activity_alpha_action_in.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_down.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_down.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_pb_default.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_pb_default.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_dialog_out.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_dialog_out.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_dialog_in.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_dialog_in.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_down_current.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_down_current.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_up_current.xml",
@@ -84,32 +52,16 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_activity_alpha_action_in.xml"
     },
     {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_in.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_socialize_fade_in.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_up.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_up.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_image_browser_out.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_image_browser_out.xml"
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_up.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_up.xml"
     },
     {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
-    },
-    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_image_browser_in.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_image_browser_in.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_out.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_socialize_fade_out.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_down.xml",
@@ -118,18 +70,6 @@
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
-    },
-    {
-        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_image_browser_in.xml",
-        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_image_browser_in.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
-    },
-    {
-        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_image_browser_out.xml",
-        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_image_browser_out.xml"
     },
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_shareboard_layout_animation.xml",
@@ -144,6 +84,10 @@
         "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_shareboard_item_anim.xml"
     },
     {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_pb_default.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_pb_default.xml"
     },
@@ -154,6 +98,142 @@
     {
         "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_down_current.xml",
         "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_down_current.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_shareboard_item_anim.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_shareboard_item_anim.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_dialog_out.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_dialog_out.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_pb_default.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_pb_default.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_in.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_down_current.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_down_current.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_up_current.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_up_current.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_up_img.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_up_img.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_dialog_in.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_dialog_in.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_activity_alpha_action_in.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_activity_alpha_action_in.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_down.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_down.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_up_img.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_up_img.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_pb_default.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_pb_default.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_dialog_out.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_dialog_out.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_image_browser_in.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_image_browser_in.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_shareboard_layout_animation.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_shareboard_layout_animation.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_down_current.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_down_current.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_up.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_up.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_dialog_out.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_dialog_out.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_shareboard_item_anim.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_shareboard_item_anim.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_activity_alpha_action_in.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_activity_alpha_action_in.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_in.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_up.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_up.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_image_browser_out.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_image_browser_out.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_out.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_image_browser_in.xml",
+        "source": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_image_browser_in.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_image_browser_out.xml",
+        "source": "E:\\svn_new\\CoachAssistant\\umeng_community_library_project\\res\\anim\\umeng_comm_image_browser_out.xml"
+    },
+    {
+        "merged": "F:\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_translate_down_img.xml",
+        "source": "F:\\HuoChaiHe\\umeng_community_library_project\\res\\anim\\umeng_comm_translate_down_img.xml"
     },
     {
         "merged": "F:\\Github\\HuoChaiHe\\umeng_community_library_project\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_comm_shareboard_layout_animation.xml",
